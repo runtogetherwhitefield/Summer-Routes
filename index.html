@@ -97,7 +97,7 @@
 </head>
 <body>
 
-<header>🏃 Running Routes</header>
+<header>🏃 RTW Summer Routes</header>
 
 <div class="container" id="homeView">
   <div class="grid" id="routesGrid"></div>
@@ -186,7 +186,7 @@ function openRoute(route) {
 
     gpxLayer = new L.GPX(route.gpx, {
       async: true,
-      polyline_options: { color: 'lime' }
+      polyline_options: { color: 'purple' }
     }).on('loaded', function(e) {
       map.fitBounds(e.target.getBounds());
     }).addTo(map);
