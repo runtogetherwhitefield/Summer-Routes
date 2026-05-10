@@ -5,7 +5,7 @@
     "distance": 5,
     "gpx": "./gpx/Philips park 5k.gpx",
     "strava": "https://www.strava.com/routes/3090600964047074422"
-  }.
+  },
 
   {
     "id": "phillips2drinkwater",
@@ -13,7 +13,7 @@
     "distance": 5,
     "gpx": "./gpx/Philips Park to Drinkwater.gpx",
     "strava": "https://www.strava.com/routes/3218142362129064798"
-  }.
+  },
 
   {
     "id": "hurstwood",
@@ -21,7 +21,7 @@
     "distance": 5.4,
     "gpx": "./gpx/Hurst wood and Old Hall Farm.gpx",
     "strava": "https://www.strava.com/routes/3344294028182499270"
-  }.
+  },
 
   {
     "id": "philipsparklaneo&b",
@@ -29,7 +29,7 @@
     "distance": 5,
     "gpx": "./gpx/Phillips Park Lane OaB.gpx",
     "strava": "https://www.strava.com/routes/3211259404652810786"
-  }.
+  },
 
   {
     "id": "lagoonacy",
@@ -37,7 +37,7 @@
     "distance": 4.8,
     "gpx": "./gpx/Lagoonacy.gpx",
     "strava": "https://www.strava.com/routes/3488450849971461332"
-  }.
+  },
 
   {
     "id": "intophilipsnocobbles",
@@ -45,7 +45,7 @@
     "distance": 5.3,
     "gpx": "./gpx/Into Phillips Park without cobbles.gpx",
     "strava": "https://www.strava.com/routes/3387439267419308868"
-  }.
+  },
 
   {
     "id": "philipsprestwichoab",
