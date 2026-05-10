@@ -13,7 +13,8 @@
     "name": "Phillips Park to Drinkwater",
     "distance": 5,
     "gpx": "./gpx/Phillips Park to Drinkwater.gpx",
-    "strava": "https://www.strava.com/routes/3218142362129064798"
+    "strava": "https://www.strava.com/routes/3218142362129064798",
+    "description": "Run into Phillips down and then up the road to the main car park entrance. Keep going down the hill (enjoy the view), keep going past the house and gardens then take next left onto a main path. This will lead you to the little lake at this point turn right following the sign for the Arches viaduct (unless you have had enough already and you want to take mere clough ) until you reach the irwell where you again turn right following the sign for Drinkwater park,  follow that path which after a while will have a quick uphill, flatten, then have a quick down hill .  When you come down that hill turn left and follow the path which is parallel(ish)to the one you have ran down on there will be signs pointing you allong the sculpture trail. We will regroup here anyway in our groups as always. Follow this path along it will veer right and then come to a road and some gates cross the road and keep running back to the little lake, then follow the signs for mere clough. Enjoy this and then the teeny tiny hill at the end to take the bridge across the motorway before turning left and returning to Philips."
   },
 
   {
@@ -21,7 +22,9 @@
     "name": "Hurst wood and Old Hall Farm",
     "distance": 5.4,
     "gpx": "./gpx/Hurst wood and Old Hall Farm.gpx",
-    "strava": "https://www.strava.com/routes/3344294028182499270"
+    "strava": "https://www.strava.com/routes/3344294028182499270",
+    "description": "So run up to the parkfield pub turn left and follow the road. Keep going straight down a small road that will turn into a ginnel around the back of the houses (if you run with us a lot you have done this the other way around ;-) then turn right following the main road up the hill, once you reach the top turn left again onto Copper Lane. Follow that down and into hurst wood, taking the main path that goes straight on follow that down. Once you reach a sign next to a lonesome tree you have two choices go right for the 6k, left for the 5k. Either way follow the path which will lead down onto the outwood trail. Turn left again onto the trail and the run along outwood trail until you get to a junction and the path splits. To your left you will see a stile go over that and you will start to go up hill.  Get to the top and follow the very clear path until you reach a farm, once through turn right and go down old hall lane until you reach Phillips Park Lane turn left and return to the finish."
+
   },
 
   {
@@ -29,7 +32,8 @@
     "name": "Phillips Park Lane OaB",
     "distance": 5,
     "gpx": "./gpx/Phillips Park Lane OaB.gpx",
-    "strava": "https://www.strava.com/routes/3211259404652810786"
+    "strava": "https://www.strava.com/routes/3211259404652810786",
+    "description": "Run out from Phillips Park down hill towards the Outwood Trail, careful down the steep bit then turn right along the outwood trail. Keep running for 20 minutes and then turn back."
   },
 
   {
@@ -37,7 +41,8 @@
     "name": "Lagoonacy",
     "distance": 4.8,
     "gpx": "./gpx/Lagoonacy.gpx",
-    "strava": "https://www.strava.com/routes/3488450849971461332"
+    "strava": "https://www.strava.com/routes/3488450849971461332",
+    "description": "So run down from Phillips Park along the motorway, run down the hill then across and down the hill again. Run straight along close to the motorway, might be a bit muddy. At the end where you hit the Irwell turn right to run along a towpath then run along this until you see a steel gate. Try opening it, if it opens follow the road through taking it right when it goes right to a gate on the other side where there is gap on the right to go around the gate. Turn right to follow a route parallel to the Outwood trail, keep going until you see a clear path to the left go up this, and then you should see a stile in front of you go over that and follow the path uphill until you see old hall lane then turn right and return to the start"
   },
 
   {
@@ -45,7 +50,8 @@
     "name": "Into Phillips Park without cobbles",
     "distance": 5.3,
     "gpx": "./gpx/Into Phillips Park without cobbles.gpx",
-    "strava": "https://www.strava.com/routes/3387439267419308868"
+    "strava": "https://www.strava.com/routes/3387439267419308868".
+    "description": "Run into Phillips down and then up the road to the main car park entrance. Keep going down the hill (enjoy the view), keep going past the house and gardens and then keep running down through a big open area. Keep running down past kingfisher thingie until you reach a tunnel go through that an then a quick right and follow the path to the left along the motorway run along this until the end then turn left and run back  until your reach our normal route through Drinkwater park just keep running straight along until you reach our 4 way sign, we will probably active regroup here and have people run back to people at the back. Otherwise turn left towards Mere Clough. Enjoy this and then the teeny tiny hill at the end  to take the bridge across the motorway before turning left and returning to Philips"
   },
 
   {
@@ -53,7 +59,8 @@
     "name": "Phillips Park OaB but not along Prestwich Clough",
     "distance": 7.6,
     "gpx": "./gpx/Phillips Park OaB but not along Prestwich Clough.gpx",
-    "strava": "https://www.strava.com/routes/3258055224959769724"
+    "strava": "https://www.strava.com/routes/3258055224959769724",
+    "description": "Run into Phillips down and then up the road to the main car park entrance. Keep going down the hill (enjoy the view), keep going past the house and gardens then take next left onto a main path. This will lead you to the little lake. This is where you will return to as part of your OaB so just start running straight along and you will reach a main gate and side road. Follow that road to the left you will get to some walls and another another main gate ,cross that and  go through the gate in front of you. Follow that into prestwich clough, when in doubt choose the low route. Keep running until you hit 20 minutes and then turn around. If you manage to get to St Mary's Park in Prestwich in 20 minutes well done you get a small lolly."
   }
 
 ]
