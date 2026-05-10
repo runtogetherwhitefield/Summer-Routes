@@ -61,6 +61,15 @@
     "gpx": "./gpx/Phillips Park OaB but not along Prestwich Clough.gpx",
     "strava": "https://www.strava.com/routes/3258055224959769724",
     "description": "Run into Phillips down and then up the road to the main car park entrance. Keep going down the hill (enjoy the view), keep going past the house and gardens then take next left onto a main path. This will lead you to the little lake. This is where you will return to as part of your OaB so just start running straight along and you will reach a main gate and side road. Follow that road to the left you will get to some walls and another another main gate ,cross that and  go through the gate in front of you. Follow that into prestwich clough, when in doubt choose the low route. Keep running until you hit 20 minutes and then turn around. If you manage to get to St Mary's Park in Prestwich in 20 minutes well done you get a small lolly."
+  },
+
+  {
+    "id": "hurstwoodwrongway",
+    "name": "8 - Philips Park, Outwood and Hurst Wood, the wrong way round",
+    "distance": 7.6,
+    "gpx": "./gpx/Philips Park, Outwood and Hurst Wood, the wrong way round.gpx",
+    "strava": "https://www.strava.com/routes/3359507892895473976",
+    "description": "So run down Phillips Park road down to Outwood, turn right and run along to Hurst Wood entrances, options given on the night.  Run up Hurst Wood then Copper Lane then run down Old Hall Lane and left back to base."
   }
 
 ]
