@@ -97,7 +97,7 @@
 </head>
 <body>
 
-<header>🏃 RTW Summer Running Routes</header>
+<header>🏃 Running Routes</header>
 
 <div class="container" id="homeView">
   <div class="grid" id="routesGrid"></div>
@@ -108,6 +108,7 @@
 
   <h2 id="routeName"></h2>
   <p id="routeInfo"></p>
+  <p id="routeDescription" style="color:#c7cedb; line-height:1.6; max-width:800px;"></p>
 
   <div id="map"></div>
 
@@ -171,6 +172,8 @@ function openRoute(route) {
   document.getElementById('routeName').innerText = route.name;
   document.getElementById('routeInfo').innerText = route.distance + ' km';
 
+  document.getElementById('routeDescription').innerText = route.description || '';
+
   document.getElementById('stravaLink').href = route.strava;
   document.getElementById('gpxDownload').href = route.gpx;
 
@@ -183,7 +186,7 @@ function openRoute(route) {
 
     gpxLayer = new L.GPX(route.gpx, {
       async: true,
-      polyline_options: { color: 'purple' }
+      polyline_options: { color: 'lime' }
     }).on('loaded', function(e) {
       map.fitBounds(e.target.getBounds());
     }).addTo(map);
